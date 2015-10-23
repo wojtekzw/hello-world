@@ -1,2 +1,2 @@
 # hello-world
-jast a test
+just a test
