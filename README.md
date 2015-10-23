@@ -1,2 +1,2 @@
 # hello-world
-just a test
+Some text to check what I have learned
